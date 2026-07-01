@@ -9,7 +9,7 @@
   <a href="https://instagram.com/it_s_jay_esh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/thejayeshkoli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jayeshkoli1402@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://jayeshkoli-1402.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://jayeshkoli-1402.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white&label=Portfolio" /></a>
 </p>
 
 ---
@@ -73,26 +73,30 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/jayeshkoli-1402/Customer-Churn-Prediction">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshkoli-1402&repo=Customer-Churn-Prediction&theme=tokyonight&hide_border=true" />
+        <img width="100%" src="https://opengraph.githubassets.com/1/jayeshkoli-1402/Customer-Churn-Prediction" /><br />
+        <b>Customer Churn Prediction</b>
       </a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/jayeshkoli-1402/Fraud-Detection-Model">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshkoli-1402&repo=Fraud-Detection-Model&theme=tokyonight&hide_border=true" />
+        <img width="100%" src="https://opengraph.githubassets.com/1/jayeshkoli-1402/Fraud-Detection-Model" /><br />
+        <b>Fraud Detection Model</b>
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/jayeshkoli-1402/diabetes-knn-predictor">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshkoli-1402&repo=diabetes-knn-predictor&theme=tokyonight&hide_border=true" />
+        <img width="100%" src="https://opengraph.githubassets.com/1/jayeshkoli-1402/diabetes-knn-predictor" /><br />
+        <b>Diabetes KNN Predictor</b>
       </a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://jayeshkoli-1402.github.io/portfolio/">
-        <img align="left" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=vercel&label=Portfolio%20Website&message=Live%20Demo&color=000000" />
+        <img width="100%" src="https://opengraph.githubassets.com/1/jayeshkoli-1402/portfolio" /><br />
+        <b>Personal Portfolio (Live)</b>
       </a>
     </td>
   </tr>
@@ -122,6 +126,12 @@
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=jayeshkoli-1402&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🟩 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2F80ED/jayeshkoli-1402" alt="Jayesh's GitHub contribution chart" />
 </p>
 
 <p align="center">
