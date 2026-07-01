@@ -168,8 +168,4 @@ I adapt to any programming language efficiently when given sufficient time to le
   <a href="https://instagram.com/it_s_jay_esh">Follow along</a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jayeshkoli-1402&icon=0&color=0" />
-</p>
 
-<p align="center"><i>Proudly crafted with 💙 — Profile powered by <a href="https://gprm.itsvg.in">GPRM</a></i></p>
