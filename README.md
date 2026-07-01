@@ -14,13 +14,19 @@
 
 ---
 
-### 🚀 About Me
+### 💫 About Me
 
-- 🎓 Studying **Artificial Intelligence & Machine Learning (AIML)**, focused on **automation and IoT applications**
-- 🔭 Currently exploring practical implementation of **ML libraries and pipelines**
-- 🤝 Looking to collaborate on **open-source projects, startups, and innovative tech**
-- ⚡ Fun fact: I pick up any programming language efficiently, given time to practice
-- 💬 Ask me about: algorithms, browser extensions, automation, or ML tooling
+I'm currently studying:<br>
+Artificial Intelligence and Machine Learning (AIML) with a focus on automation and IoT applications.
+
+I'm looking to collaborate on:<br>
+Open-source projects, startups, and innovative technology-driven inventions.
+
+I'm currently learning:<br>
+Machine learning libraries and practical implementation techniques.
+
+Fun fact:<br>
+I adapt to any programming language efficiently when given sufficient time to learn and practice.
 
 ---
 
@@ -129,11 +135,6 @@
 </p>
 
 ### 🟩 Contribution Calendar
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jayeshkoli-1402&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jayeshkoli-1402&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshkoli-1402&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 <p align="center">
   <img src="https://ghchart.rshah.org/2F80ED/jayeshkoli-1402" alt="Jayesh's GitHub contribution chart" />
